@@ -8,10 +8,11 @@
 
 Webエンジニア勉強会inVR及びリポジトリを参考にして、新しい勉強会のFork歓迎です。
 
-主要ツール
+## 主要ツール
 - [Discord — コミュニティの仲間と、友達と、おしゃべりしよう](https://discordapp.com/)
 - [バーチャルSNS cluster（クラスター）](https://cluster.mu/)
 - [connpass - エンジニアをつなぐIT勉強会支援プラットフォーム](https://connpass.com/)
 
-- 振り返り
+## 開催記録
+- [【初参加歓迎】Webエンジニア勉強会inVR 第1回 \#study\_in\_vr \#clusterVR \- Togetter](https://togetter.com/li/1498915)
   - [振り返りYWT\-01](https://github.com/fruitriin/WebEngineerStudyInVR/projects/1)
