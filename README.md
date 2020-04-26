@@ -11,6 +11,7 @@ Webエンジニア勉強会inVR及びリポジトリを参考にして、新し�
 主要ツール
 - [Discord — コミュニティの仲間と、友達と、おしゃべりしよう](https://discordapp.com/)
 - [バーチャルSNS cluster（クラスター）](https://cluster.mu/)
+- [connpass - エンジニアをつなぐIT勉強会支援プラットフォーム](https://connpass.com/)
 
 - 振り返り
   - [振り返りYWT\-01](https://github.com/fruitriin/WebEngineerStudyInVR/projects/1)
