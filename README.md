@@ -8,6 +8,14 @@
 
 Webエンジニア勉強会inVR及びリポジトリを参考にして、新しい勉強会のFork歓迎です。
 
+## リポジトリディレクトリ構成
+- assets 
+  - 15分タイマーBGMなどのアセット
+- HowTo 
+  - 読み物
+- Template
+  - 勉強会開催用のテンプレートサンプル
+
 ## 主要ツール
 - [Discord — コミュニティの仲間と、友達と、おしゃべりしよう](https://discordapp.com/)
 - [バーチャルSNS cluster（クラスター）](https://cluster.mu/)
